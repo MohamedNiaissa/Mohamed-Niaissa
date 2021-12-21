@@ -1,0 +1,65 @@
+html{
+    scroll-behavior:smooth;   
+}
+
+body{
+    position: relative;
+    color: white;
+    background-color: black;
+    
+    overflow-x: hidden; 
+    overflow-y:unset;
+     
+}
+
+.banniere{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    position: absolute;
+    height: 125px;
+    width: 688px;
+    left: 25px;
+    top: 76px;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+
+header{
+    position: absolute;
+    background: url('/public/fondheader1.jpeg');
+    height: 418px;
+    width: 1458px;
+    left: -24px;
+    top: 0px;
+    border-radius: 0px;
+}
+a{
+    text-decoration: none;
+    color: rgb(167, 101, 228);
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+nav ul{
+    position: absolute;
+    height: 50px;
+    width: 668px;
+    /* left: 763px; */
+    top: 26px;
+    margin-right: 10px;
+}
+
+nav ul li{
+    margin-right: 50px;
+}
+.role{
+    font-style: italic;
+}

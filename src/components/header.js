@@ -1,4 +1,5 @@
 import React from "react";
+import '/Users/mohamed/Documents/monportfolioreact/portfolio/src/css/header.css'
 
 
 class Header extends React.Component{
@@ -19,8 +20,8 @@ class Header extends React.Component{
                     
                     </nav>
                     <h1>
-                        Bonjour je m’appelle Mohamed Niaissa et je suis  <br />
-                        <span class="role"> un apprenti analyste et développeur d’applications</span>
+                        Bonjour je m'appelle Mohamed Niaissa et je suis  <br />
+                        <span class="role"> un apprenti analyste et développeur d'applications</span>
                     </h1>
                 </div>
 

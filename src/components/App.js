@@ -6,7 +6,7 @@ class Pageweb extends React.Component{
     render(){
         return(
 
-         <Header />
+            <Header />
 
         )
     }
