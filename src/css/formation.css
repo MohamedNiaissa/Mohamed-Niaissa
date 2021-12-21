@@ -1,0 +1,203 @@
+.formation{
+    display: flex;
+    justify-content: center;
+    
+    background: url('/public/library.jpg');
+    position: absolute;
+    height: 1230px;
+    width: 1440px;
+
+    top: 1249px;
+    border-radius: 0px;
+
+    opacity: 70%;
+
+
+}
+
+
+#titleformation{
+    position: absolute;
+
+    /* height: 45.45454406738281px;
+    width: 157px; */
+    /* top: 27px; */
+
+    text-align: center;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+
+
+    color: blueviolet;
+    
+    
+
+}
+
+.ligne{
+
+    position: absolute;
+    height: 934px;
+    width: 5px;
+    top: 212px;
+    border-radius: 0px;
+    background-color:  #C4C4C4;
+    
+}
+
+.premiere p{
+    position: absolute;
+    height: 76px;
+    width: 301px;
+    left: 783px;
+    top: 220px;
+    
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;    
+    
+}
+
+.point1{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    right: 49.4%;
+    top: 277px;
+    border-radius: 15px;
+    background-color: rgb(12, 40, 63);
+    
+    
+}
+.rect1{
+
+    position: absolute;
+    height: 145px;
+    width: 330px;
+    left: 754px;
+    top: 212px;
+    border-radius: 29px;
+    background-color: rgb(12, 40, 63);
+
+}
+
+
+
+.terminal p{
+    position: absolute;
+    height: 157px;
+    width: 368px;
+    left: 295px;
+    top: 414px; 
+    
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+    
+}
+.point2{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    right: 49.4%;
+    top: 520px;
+    border-radius: 15px;
+    background-color: rgb(12, 40, 63);
+    
+}
+.rect2{
+    position: absolute;
+    height: 240px;
+    width: 440px;
+    left: 243px;
+    top: 420px;
+    border-radius: 29px;
+    background-color: rgb(12, 40, 63);
+}
+
+
+.prepa p{
+    position: absolute;
+
+    height: 115px;
+    width: 467px;
+    left: 796px;
+    top: 664px;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.point3{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    right: 49.4%;
+    top: 720px;
+    border-radius: 15px;
+    background-color: rgb(12, 40, 63);
+
+}
+.rect3{
+    position: absolute;
+    height: 153px;
+    width: 529px;
+    left: 754px;
+    top: 650px;
+    border-radius: 29px;
+    background-color: rgb(12, 40, 63);
+}
+
+.coding p{
+    position: absolute;
+    height: 167px;
+    width: 499px;
+    left: 171px;
+    top: 870px;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+    
+}
+
+.point4{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    right: 49.4%;
+    top: 950px;
+    border-radius: 15px;
+    background-color: rgb(12, 40, 63);
+
+}
+
+.rect4{
+    position: absolute;
+    height: 168px;
+    width: 532px;
+    left: 10%;
+    top: 870px;
+    border-radius: 29px;
+    background-color: rgb(12, 40, 63);
+}
