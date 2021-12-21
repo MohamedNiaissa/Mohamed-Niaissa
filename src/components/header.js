@@ -8,7 +8,7 @@ class Header extends React.Component{
         return(
             <header>
 
-                <div class="banniere">
+                <div className="banniere">
                     <nav>
                         <ul>
                             <li> <a href ="#titleformation">FORMATION</a></li>
@@ -21,7 +21,7 @@ class Header extends React.Component{
                     </nav>
                     <h1>
                         Bonjour je m'appelle Mohamed Niaissa et je suis  <br />
-                        <span class="role"> un apprenti analyste et développeur d'applications</span>
+                        <span className="role"> un apprenti analyste et développeur d'applications</span>
                     </h1>
                 </div>
 

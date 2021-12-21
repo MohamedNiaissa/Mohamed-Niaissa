@@ -1,8 +1,10 @@
 .moi {
-    position: absolute;
+    position: relative;
     height: 552px;
     width: 440px;
-    left: 114px;
+    margin-right: 100px;
+    margin-left: 100px;
+    /* left: 114px; */
     top: 575px;
     border-radius: 78px;
     
@@ -11,15 +13,16 @@
 
 .presentation{
     display: flex;
-    flex-direction: column;
 }
 
+
+
 .presentation p{
-    position: absolute;
+    position: relative;
 
     height: 285px;
     width: 591px;
-    left: 598px;
+    /* left: 598px; */
     top: 638px;
 
     font-size: 30px;
@@ -32,21 +35,30 @@
 }
 
 .presentation ul{
-    position: absolute;
+    position: relative;
 
     height: 119px;
-    width: 591px;
-
-   
-    border-radius: nullpx;
+    /* width: 591px; */
 
 }
+
+.listeResume{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+.listeResume li{
+    top: 900px;
+    margin: 10px;
+
+}
+
 .nom{
-    position: absolute;
+    position: relative;
+    
     height: 65px;
     width: 326px;
-    left: 598px;
-    top: 976px;
+    /* left: 598px; */
     border-radius: nullpx;
 
     font-size: 30px;
@@ -61,11 +73,10 @@
 }
 
 .age{
-    position: absolute;
+    position: relative;
     height: 35px;
     width: 157px;
-    left: 1032px;
-    top: 974px;
+    /* left: 1032px; */
     border-radius: nullpx;
 
     font-size: 30px;
@@ -81,11 +92,10 @@
 }
 
 .ville{
-    position: absolute;
+    position: relative;
     height: 35px;
     width: 313px;
-    left: 598px;
-    top: 1058px;
+    /* left: 598px; */
     border-radius: nullpx;
     
     font-size: 30px;
@@ -100,11 +110,10 @@
 }
 
 .download{
-    position: absolute;
+    position: relative;
     height: 99px;
     width: 99px;
-    left: 1150px;
-    top: 1058px;
+    /* left: 1150px; */
     border-radius: 0px;   
 }
 
