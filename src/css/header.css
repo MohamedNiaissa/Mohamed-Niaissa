@@ -37,6 +37,7 @@ header{
     top: 0px;
     border-radius: 0px;
 }
+
 a{
     text-decoration: none;
     color: rgb(167, 101, 228);
@@ -51,8 +52,6 @@ ul{
 nav ul{
     position: absolute;
     height: 50px;
-    width: 668px;
-    /* left: 763px; */
     top: 26px;
     margin-right: 10px;
 }
