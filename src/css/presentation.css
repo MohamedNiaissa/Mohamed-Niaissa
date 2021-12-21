@@ -1,0 +1,129 @@
+.moi {
+    position: absolute;
+    height: 552px;
+    width: 440px;
+    left: 114px;
+    top: 575px;
+    border-radius: 78px;
+    
+    
+}
+
+.presentation{
+    display: flex;
+    flex-direction: column;
+}
+
+.presentation p{
+    position: absolute;
+
+    height: 285px;
+    width: 591px;
+    left: 598px;
+    top: 638px;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.presentation ul{
+    position: absolute;
+
+    height: 119px;
+    width: 591px;
+
+   
+    border-radius: nullpx;
+
+}
+.nom{
+    position: absolute;
+    height: 65px;
+    width: 326px;
+    left: 598px;
+    top: 976px;
+    border-radius: nullpx;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+
+}
+
+.age{
+    position: absolute;
+    height: 35px;
+    width: 157px;
+    left: 1032px;
+    top: 974px;
+    border-radius: nullpx;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    
+
+
+}
+
+.ville{
+    position: absolute;
+    height: 35px;
+    width: 313px;
+    left: 598px;
+    top: 1058px;
+    border-radius: nullpx;
+    
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    
+
+}
+
+.download{
+    position: absolute;
+    height: 99px;
+    width: 99px;
+    left: 1150px;
+    top: 1058px;
+    border-radius: 0px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
