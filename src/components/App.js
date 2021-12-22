@@ -5,6 +5,7 @@ import Formation from "./Formation";
 import Competances from "./Competances";
 import Realisation from "./Realisation";
 import Slideshow from './Slide';
+import Footer from "./Footer";
 
 
 class Pageweb extends React.Component{
@@ -18,8 +19,8 @@ class Pageweb extends React.Component{
                 <Formation />
                 <Competances />
                 <Realisation />
-
                 <Slideshow />
+                <Footer />
 
             </>
         )
