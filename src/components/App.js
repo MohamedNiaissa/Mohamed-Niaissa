@@ -13,8 +13,6 @@ class Pageweb extends React.Component{
                 <Presentation />
                 <Formation />
 
-
-
             </>
         )
     }
