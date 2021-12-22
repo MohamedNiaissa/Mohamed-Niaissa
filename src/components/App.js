@@ -3,6 +3,7 @@ import Header from "./Header";
 import Presentation from "./Presentation";
 import Formation from "./Formation";
 import Competances from "./Competances";
+import Realisation from "./Realisation";
 
 
 class Pageweb extends React.Component{
@@ -14,6 +15,7 @@ class Pageweb extends React.Component{
                 <Presentation />
                 <Formation />
                 <Competances />
+                <Realisation />
 
             </>
         )

@@ -1,0 +1,111 @@
+.realisation{
+    display: flex;
+    justify-content: center;
+}
+
+.captureprojet img{
+
+    height: 228px;
+    width: 389px;
+    border-radius: 0px;
+       
+}
+
+
+#titlerealisation{
+    position: absolute;
+    text-align: right;
+    height: 105px;
+    width: 335px;
+    top: 3756px;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+        
+    
+}
+
+.cadre{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    position: relative;
+    background: #615184;
+    mix-blend-mode: lighten;
+    margin: auto;
+    height: 623.0000610351562px;
+    width: 1276px;
+    top: 3891px;
+    border-radius: 147px;
+    
+    
+}
+
+.logogit{
+    position: absolute;
+    height: 63px;
+    width: 68px;
+    left: 47%;
+    margin-top: 10px; /*     top: 3905px;  */
+    margin: auto;
+    border-radius: 0px;
+
+
+}
+
+
+.portfolio{
+    position: absolute;
+    left: 7%;
+    margin-top: 20px;     /* top: 3962px; */
+    border-radius: 0px;
+    
+    
+}
+
+.pfs{
+    position: absolute;
+    left: 62%;   
+    margin-top: 20px;  /* top: 3962px */
+    border-radius: 0px;
+}
+
+.form{
+    position: absolute;
+    left: 7%;
+    margin-top: 300px;  /*top: 4217px;*/
+    border-radius: 0px;   
+}
+
+.quiz{
+    position: absolute;
+    left: 62%;  
+    margin-top: 300px;     /* top: 4217px; */
+    border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
