@@ -1,6 +1,6 @@
 import React from "react";
 import '../css/realisation.css'
-import Slideshow from './testslide';
+import Slideshow from './Slide';
 
 
 class Realisation extends React.Component{

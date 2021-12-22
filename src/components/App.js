@@ -4,7 +4,7 @@ import Presentation from "./Presentation";
 import Formation from "./Formation";
 import Competances from "./Competances";
 import Realisation from "./Realisation";
-import Slideshow from './testslide';
+import Slideshow from './Slide';
 
 
 class Pageweb extends React.Component{

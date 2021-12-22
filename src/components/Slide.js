@@ -3,7 +3,7 @@ import React from 'react';
 import { Zoom } from 'react-slideshow-image';
 import 'react-slideshow-image/dist/styles.css'
 
-import '../css/t.css'
+import '../css/slide.css'
 
  
 
