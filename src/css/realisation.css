@@ -1,5 +1,6 @@
 .realisation{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -13,17 +14,16 @@
 
 
 #titlerealisation{
-    position: absolute;
-    text-align: right;
+    position: relative;
+    text-align: center;
     height: 105px;
     width: 335px;
-    top: 3756px;
+    top: 2756px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
     line-height: 53px;
     letter-spacing: 0em;
-    text-align: center;
     
         
     
@@ -39,7 +39,7 @@
     margin: auto;
     height: 623.0000610351562px;
     width: 1276px;
-    top: 3891px;
+    top: 2791px;
     border-radius: 147px;
     
     

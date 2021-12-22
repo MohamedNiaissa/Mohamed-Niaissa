@@ -4,6 +4,7 @@ import Presentation from "./Presentation";
 import Formation from "./Formation";
 import Competances from "./Competances";
 import Realisation from "./Realisation";
+import Slideshow from './testslide';
 
 
 class Pageweb extends React.Component{
@@ -11,11 +12,14 @@ class Pageweb extends React.Component{
         return(
 
             <>
+
                 <Header />
                 <Presentation />
                 <Formation />
                 <Competances />
                 <Realisation />
+
+                <Slideshow />
 
             </>
         )

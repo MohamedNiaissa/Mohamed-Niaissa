@@ -1,0 +1,16 @@
+.slide-container {
+    position: relative;
+    top: 2270px;
+    width: 55%;
+    
+    left: 23%;
+}
+/* 
+.react-slideshow-container .default-nav{
+
+    background-color: aqua;
+} */
+
+.react-slideshow-container .default-nav:first-of-type {
+    margin-right:-23px;
+}
