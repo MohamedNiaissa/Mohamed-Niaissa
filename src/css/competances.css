@@ -132,164 +132,38 @@
 
 }
 
+
+
+
+
+
+
+
 .back h3{
-    position: absolute;
+    position: relative;
     height: 77px;
     width: 277px;
-    left: 797px;
-    top: 3110px;
-
+    top: 2605px;
     font-size: 45px;
     font-style: italic;
     font-weight: 400;
     line-height: 53px;
     letter-spacing: 0em;
-    text-align: left;
-    
-    
-    
+    text-align: center;   
 }
 
-.python{
-    position: absolute;
-    height: 60px;
-    width: 277px;
-    left: 797px;
-    top: 3227px;
 
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 53px;
-    letter-spacing: 0em;
-    text-align: left;
-    
-    
-    
-}
-
-.java{
+.back{
     display: flex;
-    position: absolute;
-    height: 60px;
-    width: 277px;
-    left: 797px;
-    top: 3302px;
-
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 53px;
-    letter-spacing: 0em;
-    text-align: left;
-    
+    flex-direction: column;
+    align-items: center;
 }
 
-.C{
-    position: absolute;
-    height: 60px;
-    width: 277px;
-    left: 797px;
-    top: 3377px;
-
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 53px;
-    letter-spacing: 0em;
-    text-align: left;
-}
-
-.autre h3{
-    position: absolute;
-    height: 89.0999984741211px;
-    width: 320px;
-    left: 74px;
-    top: 3437px;
-
-
-
-    font-size: 45px;
-    font-style: italic;
-    font-weight: 400;
-    line-height: 53px;
-    letter-spacing: 0em;
-    text-align: left;
-    
-}
-
-.figma{
-    position: absolute;
-    height: 60.75px;
-    width: 236px;
-    left: 70px;
-    top: 3538.25px;
-    
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 53px;
-    letter-spacing: 0em;
-    text-align: left;
-    
-        
-}
-
-.anglais{
-    position: absolute;
-    height: 60.75px;
-    width: 236px;
-    left: 70px;
-    top: 3623px;
-
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 53px;
-    letter-spacing: 0em;
-    text-align: left;
-    
-    
-    
-}
-
-
-
-.noteJava{
-    
+.back ul{
     display: flex;
-
-    margin-left: 100px;
-
-    height: 24px;
-    width: 244px;
-    /*left: 1048px;*/
-    top: 3245px;
-    
-    
+    flex-direction: column;
+    align-items: center;
 }
-.python{
-    display: flex;
-}
-.notePython{
-
-    display: flex;
-    justify-content: space-between;
-    margin-left: 50px;
-
-    /*margin-bottom: 20px;*/
-
-
-}
-.C{
-    display: flex;
-}
-
-.noteC{
-    display: flex;
-    margin-left: 150px;
-}
-
 .back .note1,.back .note2,.back .note3,.back .note4,.back .note5{
 
     height: 26px;
@@ -300,6 +174,81 @@
 
 }
 
+
+.python{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    height: 60px;
+    width: 277px;
+    top: 2550px;
+    left: 50%;
+    
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+        
+}
+
+.notePython{
+    display: flex;
+    margin-left: 108px;
+
+}
+
+
+.java{
+    display: flex;
+    justify-content: center;
+
+    position: relative; 
+    height: 60px;
+    width: 277px;
+    left: 50%;
+    top: 2580px;
+    
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    
+}
+
+.noteJava{
+    display: flex;
+    margin-left: 156px;
+
+}
+
+.C{
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    height: 60px;
+    width: 277px;
+    top: 2580px;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 50%;
+
+    
+}
+
+.noteC{
+    display: flex;
+    margin-left: 200px;
+
+}
 
 
 
