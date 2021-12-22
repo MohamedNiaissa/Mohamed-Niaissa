@@ -1,8 +1,12 @@
 
 .competances{
-    display: flex;
-    justify-content: center;
+   text-align: center;
 
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
 }
 
 #titleskills{
@@ -143,7 +147,7 @@
     position: relative;
     height: 77px;
     width: 277px;
-    top: 2605px;
+    top: 2305px;
     font-size: 45px;
     font-style: italic;
     font-weight: 400;
@@ -181,7 +185,7 @@
     position: relative;
     height: 60px;
     width: 277px;
-    top: 2550px;
+    top: 2250px;
     left: 50%;
     
     font-size: 45px;
@@ -208,7 +212,7 @@
     height: 60px;
     width: 277px;
     left: 50%;
-    top: 2580px;
+    top: 2280px;
     
     font-size: 45px;
     font-style: normal;
@@ -232,7 +236,7 @@
     position: relative;
     height: 60px;
     width: 277px;
-    top: 2580px;
+    top: 2320px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
@@ -240,7 +244,6 @@
     letter-spacing: 0em;
     text-align: left;
     left: 50%;
-
     
 }
 
@@ -250,29 +253,34 @@
 
 }
 
-
-
 /* Autre*/
 
-
-.figma{
-    display: flex;
+.autre h3{
+    position: relative;
+    height: 77px;
+    width: 277px;
+    top: 2355px;
+    font-size: 45px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;   
 }
 
-.noteFigma{
+
+
+.autre{
     display: flex;
-    margin-left: 148px;
+    flex-direction: column;
+    align-items: center;
 }
 
-.anglais{
+.back ul{
     display: flex;
-
+    flex-direction: column;
+    align-items: center;
 }
-.noteAnglais{
-    display: flex;
-    margin-left: 40px;
-}
-
 .autre .note1,.autre .note2,.autre .note3,.autre .note4,.autre .note5{
 
     height: 26px;
@@ -284,4 +292,52 @@
 }
 
 
+.figma{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    height: 60px;
+    width: 277px;
+    top: 2300px;
+    left: 50%;
+    
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+        
+}
+
+.noteFigma{
+    display: flex;
+    margin-left: 108px;
+
+}
+
+
+.anglais{
+    display: flex;
+    justify-content: center;
+
+    position: relative; 
+    height: 60px;
+    width: 277px;
+    top: 2400px;
+    
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    
+}
+
+.noteAnglais{
+    display: flex;
+    margin-left: 15px;
+
+}
 

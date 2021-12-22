@@ -7,7 +7,9 @@ class Competances extends React.Component{
         return(
             <div class="competances">
                 <h2 id ="titleskills">Compétances</h2>
-        
+
+                <div className="container">
+
                 <div class="front">
                     <h3>Front</h3>
         
@@ -108,6 +110,10 @@ class Competances extends React.Component{
                         </li>
                     </ul>
                 </div>
+
+                </div>
+        
+                
         </div>
         )
     }
