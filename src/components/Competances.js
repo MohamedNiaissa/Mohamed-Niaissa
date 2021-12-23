@@ -5,107 +5,107 @@ class Competances extends React.Component{
 
     render(){
         return(
-            <div class="competances">
-                <h2 id ="titleskills">Compétances</h2>
+            <div className="competances">
+                <h2 className="classtitleskills">Compétances</h2>
 
                 <div className="container">
 
-                <div class="front">
+                <div className="front">
                     <h3>Front</h3>
         
                     <ul>
-                        <li class="HTML">
+                        <li className="HTML">
                             <span>HTML</span>
-                            <div class="noteHTML">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteHTML">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
-                        <li class="CSS">
+                        <li className="CSS">
                             <span>CSS</span>
-                            <div class="noteCSS">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteCSS">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
-                        <li class="JS">
+                        <li className="JS">
                             <span>JavaScript</span>
-                            <div class="noteJavaScript">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteJavaScript">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
                     </ul>
                 </div>
         
-                <div class="back">
+                <div className="back">
                     <h3>Back</h3>
         
                     <ul>
-                        <li class="python">
+                        <li className="python">
                             <span>Python</span>
-                            <div class="notePython">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="notePython">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
-                        <li class="java">
+                        <li className="java">
                             <span>Java</span>
-                            <div class="noteJava">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteJava">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
-                        <li class="C">
+                        <li className="C">
                             <span>C</span>
-                            <div class="noteC">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteC">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
                     </ul>
                 </div>
         
-                <div class="autre">
+                <div className="autre">
                     <h3>Autre</h3>
         
                     <ul>
-                        <li class="figma">
+                        <li className="figma">
                             <span>Figma</span>
-                            <div class="noteFigma">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteFigma">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
-                        <li class="anglais">
+                        <li className="anglais">
                             <span>Anglais(B2)</span>
-                            <div class="noteAnglais">
-                                <div class="note1"></div>
-                                <div class="note2"></div>
-                                <div class="note3"></div>
-                                <div class="note4"></div>
-                                <div class="note5"></div>
+                            <div className="noteAnglais">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
                     </ul>

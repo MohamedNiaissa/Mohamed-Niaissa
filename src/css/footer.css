@@ -93,7 +93,6 @@ footer{
     background-color: grey;
     height: 106px;
     width: 800px;
-    /* left: 390px; */
     top: 1949px;
     
     
@@ -103,7 +102,7 @@ footer{
     position: relative;
     height: 64px;
     width: 64px;
-    left: 40%;            /*left: 557px;*/
+    left: 40%;            
     top: 1860px;
     
     
@@ -113,7 +112,7 @@ footer{
     position: relative;
     height: 65px;
     width: 65px;
-    left: 49%;                /*left: 696px;*/
+    left: 49%;                
     top: 1860px;
     border-radius: 0px;
     
