@@ -6,7 +6,7 @@ class Competances extends React.Component{
     render(){
         return(
             <div className="competances">
-                <h2 className="classtitleskills">Compétances</h2>
+                <h2 className="classtitleskills">Compétences</h2>
 
                 <div className="container">
 
@@ -16,32 +16,26 @@ class Competances extends React.Component{
                     <ul>
                         <li className="HTML">
                             <span>HTML</span>
-                            <div className="noteHTML">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                                <div className="styleproghtml">
+                                    <div className="progressionHtml">
+                                        <span className="pourcentHtml">90%</span>
+                                </div>
                             </div>
                         </li>
                         <li className="CSS">
                             <span>CSS</span>
-                            <div className="noteCSS">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                            <div className="styleprogcss">
+                                    <div className="progressionCss">
+                                        <span className="pourcentCss">80%</span>
+                                </div>
                             </div>
                         </li>
                         <li className="JS">
                             <span>JavaScript</span>
-                            <div className="noteJavaScript">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                            <div className="styleprogjs">
+                                    <div className="progressionJs">
+                                        <span className="pourcentJs">60%</span>
+                                </div>
                             </div>
                         </li>
                     </ul>
