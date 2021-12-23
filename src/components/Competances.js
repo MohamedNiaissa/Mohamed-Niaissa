@@ -16,26 +16,28 @@ class Competances extends React.Component{
                     <ul>
                         <li className="HTML">
                             <span>HTML</span>
+                            <div className="noteHTML">
                                 <div className="styleproghtml">
                                     <div className="progressionHtml">
                                         <span className="pourcentHtml">90%</span>
+                                    </div>
                                 </div>
                             </div>
                         </li>
                         <li className="CSS">
                             <span>CSS</span>
-                            <div className="styleprogcss">
-                                    <div className="progressionCss">
-                                        <span className="pourcentCss">80%</span>
-                                </div>
+                            <div className="noteCSS">
+                     
                             </div>
                         </li>
                         <li className="JS">
                             <span>JavaScript</span>
-                            <div className="styleprogjs">
-                                    <div className="progressionJs">
-                                        <span className="pourcentJs">60%</span>
-                                </div>
+                            <div className="noteJavaScript">
+                                <div className="note1"></div>
+                                <div className="note2"></div>
+                                <div className="note3"></div>
+                                <div className="note4"></div>
+                                <div className="note5"></div>
                             </div>
                         </li>
                     </ul>

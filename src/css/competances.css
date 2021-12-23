@@ -112,10 +112,27 @@
     
 }
 
-.noteCSS{
-    display: flex;
-    margin-left: 156px;
+.styleprogcss{
+    width  : 250px;
+    height : 50px;
+    background-color: #34487c;
+    border-radius: 15px;
+    margin-left: 100px;
+}
 
+.progressionCss{
+    width  : 225px;
+    height : 50px;
+    background-color: rgba(166, 39, 216, 0.644);
+    border-radius: 15px;
+
+}
+
+.pourcentCss{
+    font-style: italic;
+    font-size: 30px;
+    width: 10%;
+    margin-left: 50%;
 }
 
 .JS{
