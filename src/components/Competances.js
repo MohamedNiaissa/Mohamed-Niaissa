@@ -27,17 +27,21 @@ class Competances extends React.Component{
                         <li className="CSS">
                             <span>CSS</span>
                             <div className="noteCSS">
-                     
+                                <div className="styleprogcss">
+                                        <div className="progressionCss">
+                                            <span className="pourcentCss">80%</span>
+                                        </div>
+                                    </div>
                             </div>
                         </li>
                         <li className="JS">
                             <span>JavaScript</span>
                             <div className="noteJavaScript">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                                <div className="styleprogJs">
+                                    <div className="progressionJs">
+                                        <span className="pourcentJs">60%</span>
+                                    </div>
+                                </div>
                             </div>
                         </li>
                     </ul>
@@ -50,31 +54,31 @@ class Competances extends React.Component{
                         <li className="python">
                             <span>Python</span>
                             <div className="notePython">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                            <div className="styleprogPy">
+                                <div className="progressionPy">
+                                    <span className="pourcentPy">70%</span>
+                                </div>
+                            </div>
                             </div>
                         </li>
                         <li className="java">
                             <span>Java</span>
                             <div className="noteJava">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                                <div className="styleprogJa">
+                                    <div className="progressionJa">
+                                        <span className="pourcentJa">65%</span>
+                                    </div>
+                                </div>
                             </div>
                         </li>
-                        <li className="C">
-                            <span>C</span>
-                            <div className="noteC">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                        <li className="React">
+                            <span>ReactJS</span>
+                            <div className="noteReact">
+                                <div className="styleprogReact">
+                                    <div className="progressionReact">
+                                        <span className="pourcentReact">40%</span>
+                                    </div>
+                                </div>
                             </div>
                         </li>
                     </ul>
@@ -87,21 +91,21 @@ class Competances extends React.Component{
                         <li className="figma">
                             <span>Figma</span>
                             <div className="noteFigma">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                            <div className="styleprogFig">
+                                <div className="progressionFig">
+                                    <span className="pourcentFig">55%</span>
+                                </div>
+                            </div>                        
                             </div>
                         </li>
                         <li className="anglais">
                             <span>Anglais(B2)</span>
                             <div className="noteAnglais">
-                                <div className="note1"></div>
-                                <div className="note2"></div>
-                                <div className="note3"></div>
-                                <div className="note4"></div>
-                                <div className="note5"></div>
+                                <div className="styleprogAng">
+                                    <div className="progressionAng">
+                                        <span className="pourcentAng">85%</span>
+                                    </div>
+                                </div>
                             </div>
                         </li>
                     </ul>
