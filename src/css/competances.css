@@ -56,7 +56,7 @@
     position: relative;
     height: 60px;
     width: 277px;
-    top: 2150px;
+    top: 2190px;
     left: -115%;
     
     font-size: 45px;
@@ -316,14 +316,14 @@
     position: relative;
     height: 60px;
     width: 277px;
-    top: 2320px;
+    top: 2255px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
     line-height: 53px;
     letter-spacing: 0em;
     text-align: left;
-    left: -112%;
+    left: -113%;
     
 }
 .styleprogReact{
