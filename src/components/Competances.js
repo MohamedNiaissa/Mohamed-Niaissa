@@ -34,12 +34,12 @@ class Competances extends React.Component{
                                     </div>
                             </div>
                         </li>
-                        <li className="JS">
-                            <span>JavaScript</span>
-                            <div className="noteJavaScript">
-                                <div className="styleprogJs">
-                                    <div className="progressionJs">
-                                        <span className="pourcentJs">60%</span>
+                        <li className="React">
+                            <span>ReactJS</span>
+                            <div className="noteReact">
+                                <div className="styleprogReact">
+                                    <div className="progressionReact">
+                                        <span className="pourcentReact">40%</span>
                                     </div>
                                 </div>
                             </div>
@@ -71,12 +71,12 @@ class Competances extends React.Component{
                                 </div>
                             </div>
                         </li>
-                        <li className="React">
-                            <span>ReactJS</span>
-                            <div className="noteReact">
-                                <div className="styleprogReact">
-                                    <div className="progressionReact">
-                                        <span className="pourcentReact">40%</span>
+                        <li className="JS">
+                            <span>JavaScript</span>
+                            <div className="noteJavaScript">
+                                <div className="styleprogJs">
+                                    <div className="progressionJs">
+                                        <span className="pourcentJs">60%</span>
                                     </div>
                                 </div>
                             </div>

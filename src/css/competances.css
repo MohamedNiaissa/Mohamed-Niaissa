@@ -154,7 +154,8 @@
     line-height: 53px;
     letter-spacing: 0em;
     text-align: left;
-    left: -115%;
+    left: 112%;
+    margin-top: 40px;
 
     
 }
@@ -322,7 +323,7 @@
     line-height: 53px;
     letter-spacing: 0em;
     text-align: left;
-    left: 115%;
+    left: -112%;
     
 }
 .styleprogReact{
