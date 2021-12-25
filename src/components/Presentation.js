@@ -22,7 +22,7 @@ class Presentation extends React.Component{
                         <li className="nom">Nom: Mohamed Niaissa</li>
                         <li className="age">Age: 20 ans</li>
                         <li className="ville">Ville: Clichy-La-Garenne</li>
-                        <li> <a href="#"><img src="download.png" className = "download"alt="Telecharger mon CV" /></a></li>
+                        <li> <a href="CorrectionCV.zip"><img src="download.png" className = "download"alt="Telecharger mon CV" /></a></li>
                     </ul>
                 
                      
