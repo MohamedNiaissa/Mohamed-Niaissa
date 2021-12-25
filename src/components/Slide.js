@@ -26,9 +26,12 @@ const Slideshow = () => {
     const images = [
         'accueilquiz.png',
         'Portfolio.png',
+        'Battle.png',
         'JavaFx.png',
+        'CDL.png',
         'pfs.png',
-        'Formulaire.png'
+        'Formulaire.png',
+
       ];
 
     return (
