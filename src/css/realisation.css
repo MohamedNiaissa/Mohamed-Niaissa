@@ -1,7 +1,8 @@
 .realisation{
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: center;
+    align-items: center;
 }
 
 
@@ -24,14 +25,15 @@
 
 .cadre{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     padding-top: 20px;
     position: relative;
+    margin-left: 21px;
     background: #615184;
     mix-blend-mode: lighten;
-    margin: auto;
     height: 623.0000610351562px;
-    width: 1276px;
+    width: 1388px;
     top: 2791px;
     border-radius: 147px;
     

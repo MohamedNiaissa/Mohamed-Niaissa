@@ -1,9 +1,11 @@
 .slide-container {
     position: relative;
     top: 2270px;
-    width: 55%;
-    
-    left: 23%;
+    width: 800px;
+    text-align: center;
+    margin-left: 23%;
+    margin-right: 23%;
+
 }
 
 .react-slideshow-container .default-nav:first-of-type {
