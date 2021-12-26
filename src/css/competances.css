@@ -1,13 +1,11 @@
 
 .competances{
-   text-align: center;
 
-}
-
-.container{
     display: flex;
     flex-direction: column;
 }
+
+
 
 
 .classtitleskills{
@@ -57,7 +55,6 @@
     height: 60px;
     width: 277px;
     top: 2190px;
-    left: -115%;
     
     font-size: 45px;
     font-style: normal;
@@ -87,12 +84,12 @@
 }
 
 .pourcentHtml{
+    position: relative;
     font-style: italic;
+    left: 100px;
     font-size: 30px;
-    width: 10%;
-    margin-left: 70%;
-}
 
+}
 
 .CSS{
     display: flex;
@@ -101,7 +98,6 @@
     position: relative; 
     height: 60px;
     width: 277px;
-    left: -115%;
     top: 2220px;
     
     font-size: 45px;
@@ -134,33 +130,35 @@
 }
 
 .pourcentCss{
+    position: relative;
+    left:115px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 66%;
+ 
+    
 }
 
-.JS{
+
+
+
+.React{
     display: flex;
     justify-content: center;
 
     position: relative;
     height: 60px;
     width: 277px;
-    top: 2272px;
+    top: 2255px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
     line-height: 53px;
     letter-spacing: 0em;
     text-align: left;
-    left: 112%;
-    margin-top: 40px;
-
+    
     
 }
-
-.styleprogJs{
+.styleprogReact{
     width  : 250px;
     height : 50px;
     background-color: #34487c;
@@ -168,19 +166,24 @@
     margin-left: 100px;
 }
 
-.progressionJs{
-    width  : 150px;
+.progressionReact{
+    width  : 100px;
     height : 50px;
     background-color: rgba(166, 39, 216, 0.644);
     border-radius: 15px;
 
 }
 
-.pourcentJs{
+.pourcentReact{
+    position: relative;
+    left:35px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 56%;
+   
+}
+
+.React span{
+    margin-right: 27px;
 }
 
 
@@ -222,7 +225,6 @@
     height: 60px;
     width: 277px;
     top: 2250px;
-    left: 115%;
     
     font-size: 45px;
     font-style: normal;
@@ -252,10 +254,11 @@
 }
 
 .pourcentPy{
+    position: relative;
+    left:70px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 60%;
+    
 }
 
 .python span{
@@ -271,7 +274,6 @@
     position: relative; 
     height: 60px;
     width: 277px;
-    left: 115%;
     top: 2280px;
     
     font-size: 45px;
@@ -299,34 +301,39 @@
 }
 
 .pourcentJa{
+    position: relative;
+    left:80px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 60%;
+  
 }
 
 .java span{
     margin-right: 90px;
 }
 
-.React{
+
+
+.JS{
     display: flex;
     justify-content: center;
 
     position: relative;
     height: 60px;
     width: 277px;
-    top: 2255px;
+    top: 2272px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
     line-height: 53px;
     letter-spacing: 0em;
     text-align: left;
-    left: -113%;
+    margin-top: 40px;
+
     
 }
-.styleprogReact{
+
+.styleprogJs{
     width  : 250px;
     height : 50px;
     background-color: #34487c;
@@ -334,24 +341,24 @@
     margin-left: 100px;
 }
 
-.progressionReact{
-    width  : 100px;
+.progressionJs{
+    width  : 150px;
     height : 50px;
     background-color: rgba(166, 39, 216, 0.644);
     border-radius: 15px;
 
 }
 
-.pourcentReact{
+.pourcentJs{
+    position: relative;
+    left:80px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 35%;
+  
 }
 
-.React span{
-    margin-right: 27px;
-}
+
+
 
 
 /* Autre*/
@@ -386,12 +393,11 @@
 
 .figma{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     position: relative;
     height: 60px;
     width: 277px;
     top: 2300px;
-    left: -35%;
     
     font-size: 45px;
     font-style: normal;
@@ -407,7 +413,7 @@
     height : 50px;
     background-color: #34487c;
     border-radius: 15px;
-    margin-left: 100px;
+    /* margin-left: 100px; */
 }
 
 .progressionFig{
@@ -419,26 +425,27 @@
 }
 
 .pourcentFig{
+    position: relative;
+    left:70px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 50%;
+ 
 }
 
 .figma span{
-    margin-right: 110px;
+    margin-right: 193px;
 }
 
 
 .anglais{
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 
     position: relative; 
     height: 60px;
     width: 277px;
     top: 2400px;
-    left: -85%;
+    
 
     
     font-size: 45px;
@@ -466,10 +473,11 @@
 }
 
 .pourcentAng{
+    position: relative;
+    left:70px;
     font-style: italic;
     font-size: 30px;
-    width: 10%;
-    margin-left: 60%;
+    
 }
 
 
