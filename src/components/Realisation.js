@@ -16,12 +16,6 @@ class Realisation extends React.Component{
                 <img src="github-sign.png" className="logogit" alt="logo github" />
              </a>   
     
-             <div className='captureprojet'>
-                
-        
-
-            </div>
-    
              </div>
         
          </div>
