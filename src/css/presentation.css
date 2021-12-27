@@ -85,6 +85,10 @@
 
 }
 
+a{
+    background-color: red;
+}
+
 .ville{
     position: relative;
     height: 35px;
@@ -106,10 +110,7 @@
     height: 99px;
     width: 99px;
     top: 650px;
-    /* left: 1150px; */
-    border-radius: 0px;   
 }
-
 
 
 
@@ -141,10 +142,10 @@
 
 
 
-    .download {
-        position: absolute;
-        top: 710px;
-        left: 430px;
+    .download{
+        position: relative;
+        top: 580px;
+        left: 397px;
 
     }
  }
