@@ -6,7 +6,7 @@ class Competances extends React.Component{
     render(){
         return(
             <div className="competances">
-                <h2 className="classtitleskills">Compétences</h2>
+                <h2 className="classtitleskills" id="titleskills">Compétences</h2>
 
                 <div className="container">
 

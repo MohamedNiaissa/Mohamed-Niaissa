@@ -11,7 +11,7 @@ footer{
     background-color: #363155;
     height: 524px;
     width: 1440px;
-    top: 2619px;
+    top: 3319px;
     border-radius: 0px;
     
     
@@ -22,7 +22,7 @@ footer{
     text-align: center;
     height: 153px;
     width: 416px;
-    top: 2100px;
+    top: 2800px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
@@ -46,7 +46,7 @@ footer{
     position: relative;
     height: 70px;
     width: 1082px;
-    top: 1965px;
+    top: 2665px;
 
     text-align:center;
     font-size: 40px;
@@ -62,7 +62,7 @@ footer{
     position: relative;
     height: 65px;
     width: 65px;
-    top: 1949px;
+    top: 2649px;
     margin-top: 20px;
     
 }
@@ -72,7 +72,7 @@ footer{
     height: 60px;
     width: 676px;
     /* left: 460px; */
-    top: 1830px;
+    top: 2530px;
 
     margin-right: 0px;
     padding-right: 0px;
@@ -94,7 +94,7 @@ footer{
     background-color: grey;
     height: 106px;
     width: 800px;
-    top: 1949px;
+    top: 2649px;
     
     
 }
@@ -104,7 +104,7 @@ footer{
     height: 64px;
     width: 64px;
     left: 40%;            
-    top: 1860px;
+    top: 2560px;
     
     
 }
@@ -114,7 +114,7 @@ footer{
     height: 65px;
     width: 65px;
     left: 49%;                
-    top: 1860px;
+    top: 2560px;
     border-radius: 0px;
     
     
@@ -125,7 +125,7 @@ footer{
     height: 64px;
     width: 64px;
     left: 58%;
-    top: 1860px;
+    top: 2560px;
     border-radius: 0px;
     
 }
