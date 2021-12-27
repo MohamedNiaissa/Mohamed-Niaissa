@@ -1,7 +1,7 @@
 .moi {
     position: relative;
     height: 552px;
-    width: 440px;
+    width: 500px;
     margin-right: 100px;
     margin-left: 100px;
     /* left: 114px; */
@@ -53,10 +53,8 @@
 
 .nom{
     position: relative;
-    
     height: 65px;
     width: 326px;
-    /* left: 598px; */
 
 
     font-size: 30px;
@@ -74,8 +72,7 @@
     position: relative;
     height: 35px;
     width: 157px;
-    /* left: 1032px; */
-
+  
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -92,8 +89,6 @@
     position: relative;
     height: 35px;
     width: 313px;
-    /* left: 598px; */
-    border-radius: nullpx;
     
     font-size: 30px;
     font-style: normal;
@@ -120,8 +115,39 @@
 
 
 
+@media (max-width: 800px) { 
+    .presentation{
+        flex-direction: column;
+        align-content: center;
+        margin-left: 400px;
+
+        
+    }
+    
+
+    .presentation p{
+        text-align: center;
+        width: 686px;
+    }
+  
+
+    .listeResume{
+        flex-direction: column;
+    }
+
+    .ville{
+        left: -343px;
+    }
 
 
+
+    .download {
+        position: absolute;
+        top: 710px;
+        left: 430px;
+
+    }
+ }
 
 
 
