@@ -12,8 +12,8 @@
 
 .presentation{
     display: flex;
-    top: 598px;
-    position: absolute;
+    justify-content: center;
+    margin-top: 50px;
     
 }
 
@@ -113,7 +113,8 @@
 
     .presentation{
         flex-direction: column;
-        align-content: center;
+        align-items: center;
+
         margin-left: 400px;
 
         
