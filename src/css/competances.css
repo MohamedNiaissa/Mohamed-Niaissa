@@ -161,7 +161,7 @@
     height : 50px;
     background-color: #34487c;
     border-radius: 15px;
-    margin-left: 100px;
+    margin-left:    110px;
 }
 
 .progressionReact{
@@ -322,7 +322,7 @@
     line-height: 53px;
     letter-spacing: 0em;
     text-align: left;
-    margin-top: 40px;
+    margin-top: 0;
 
     
 }
@@ -332,7 +332,7 @@
     height : 50px;
     background-color: #34487c;
     border-radius: 15px;
-    margin-left: 100px;
+    margin-left: 90px;
 }
 
 .progressionJs{
