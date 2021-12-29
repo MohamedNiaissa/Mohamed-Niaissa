@@ -6,17 +6,18 @@ class Footer extends React.Component{
 
         <footer>
 
-            <div className="cadrefooter"></div>
+            
                 <h3 id="titlecontact"> Contactez-moi</h3>
                 <p id="recherche">
                 Actuellement à la recherche d’un stage et d'une alternance <br /> pour l'année 2022
                 </p>
                 <div className="mail">
                 <img src="email.png" className="email" alt="logo email" />
+                
                 <div className="encadremail">
-                    
+                    <p className="myemail">mohamedniaissa21@gmail.com</p>
+
                 </div>
-                <p className="myemail">mohamedniaissa21@gmail.com</p>
     
                 <div className="reseaux">
                         <a href="https://www.linkedin.com/in/mohamed-niaissa-10040a217/" target="_blank">

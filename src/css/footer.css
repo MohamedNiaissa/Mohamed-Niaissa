@@ -5,26 +5,21 @@ footer{
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center; 
-}
-
-.cadrefooter{
-    position: relative;
+    width: 1440px;
 
     background-color: #363155;
-    height: 524px;
-    width: 1440px;
-    top: 3319px;
-    border-radius: 0px;
-    
-    
+
 }
 
+
+
+
 #titlecontact{
-    position: relative;
     text-align: center;
-    height: 153px;
+    margin-bottom: 0;
+    height: 89px;
     width: 416px;
-    top: 2800px;
+    top: 2900px;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
@@ -45,7 +40,6 @@ footer{
 }
 #recherche{
 
-    position: relative;
     height: 70px;
     width: 1082px;
     top: 2665px;
@@ -61,7 +55,6 @@ footer{
 }
 
 .email{
-    position: relative;
     height: 65px;
     width: 65px;
     top: 2649px;
@@ -70,11 +63,8 @@ footer{
 }
 
 .myemail{
-    position: relative;
     height: 60px;
-    width: 676px;
-    /* left: 460px; */
-    top: 2530px;
+    width: 700px;
 
     margin-right: 0px;
     padding-right: 0px;
@@ -85,51 +75,51 @@ footer{
     line-height: 47px;
     letter-spacing: 0em;
     text-align: center;
+    margin-top: 7px;
+
     
     
     
 }
 
 .encadremail{
-    position: relative;
-
+    top: 2530px;
     background-color: grey;
-    height: 106px;
-    width: 800px;
-    top: 2649px;
-    
-    
+    height: 75px;
+
 }
 
+
+
 .linkedin{
-    position: relative;
-    height: 64px;
-    width: 64px;
+    height: 40px;
+    width: 40px;
     left: 40%;            
     top: 2560px;
-    
+    margin: 15px;
     
 }
 
 .twitter{
-    position: relative;
-    height: 65px;
-    width: 65px;
+    height: 40px;
+    width: 40px;
     left: 49%;                
     top: 2560px;
     border-radius: 0px;
+    margin: 15px;
+
     
     
 }
 
 .insta{
-    position: relative;
-    height: 64px;
-    width: 64px;
+    height: 40px;
+    width: 40px;
     left: 58%;
     top: 2560px;
     border-radius: 0px;
-    
+    margin: 15px;
+
 }
 
 
