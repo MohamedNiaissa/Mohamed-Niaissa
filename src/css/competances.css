@@ -2,7 +2,7 @@
 .competances{
     position: absolute;
     width: 1440px;
-    top: 367px;
+    top: 2567px;
 
     display: flex;
     flex-direction: column;
@@ -12,7 +12,6 @@
 
 
 #titleskills{
-    position: relative;
     text-align: center;
     height: 67px;
     top: 2150px;
@@ -24,7 +23,6 @@
 }
 
 .front h3{
-    position: relative;
     height: 77px;
     width: 277px;
     top: 2205px;
@@ -54,7 +52,6 @@
 .HTML{
     display: flex;
     justify-content: center;
-    position: relative;
     height: 60px;
     width: 277px;
     top: 2190px;
@@ -98,7 +95,6 @@
     display: flex;
     justify-content: center;
 
-    position: relative; 
     height: 60px;
     width: 277px;
     top: 2220px;
@@ -148,7 +144,6 @@
     display: flex;
     justify-content: center;
 
-    position: relative;
     height: 60px;
     width: 277px;
     top: 2255px;
@@ -195,7 +190,6 @@
 
 
 .back h3{
-    position: relative;
     height: 77px;
     width: 277px;
     top: 2305px;
@@ -224,7 +218,6 @@
 .python{
     display: flex;
     justify-content: center;
-    position: relative;
     height: 60px;
     width: 277px;
     top: 2250px;
@@ -274,7 +267,6 @@
     display: flex;
     justify-content: center;
 
-    position: relative; 
     height: 60px;
     width: 277px;
     top: 2280px;
@@ -321,7 +313,6 @@
     display: flex;
     justify-content: center;
 
-    position: relative;
     height: 60px;
     width: 277px;
     top: 2272px;
@@ -367,7 +358,6 @@
 /* Autre*/
 
 .autre h3{
-    position: relative;
     height: 77px;
     width: 277px;
     top: 2355px;
@@ -397,7 +387,7 @@
 .figma{
     display: flex;
     justify-content: flex-start;
-    position: relative;
+    
     height: 60px;
     width: 277px;
     top: 2300px;
@@ -408,6 +398,7 @@
     line-height: 53px;
     letter-spacing: 0em;
     /* text-align: left; */
+    margin-top:     70px;
         
 }
 
@@ -444,7 +435,6 @@
     display: flex;
     justify-content: flex-end;
 
-    position: relative; 
     height: 60px;
     width: 277px;
     top: 2400px;

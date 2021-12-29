@@ -1,4 +1,6 @@
 .realisation{
+    position: absolute;
+    top: 3757px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -8,7 +10,6 @@
 
 
 #titlerealisation{
-    position: relative;
     text-align: center;
     height: 105px;
     width: 335px;
@@ -28,13 +29,12 @@
     flex-wrap: wrap;
     justify-content: center;
     padding-top: 20px;
-    position: relative;
     margin-left: 21px;
     background: #615184;
     mix-blend-mode: lighten;
     height: 623.0000610351562px;
     width: 1388px;
-    top: 3699px;
+    /* top: 3699px; */
     border-radius: 147px;
     
     
@@ -51,40 +51,6 @@
 
 
 }
-
-
-.portfolio{
-    position: absolute;
-    left: 7%;
-    margin-top: 20px;     /* top: 3962px; */
-    border-radius: 0px;
-    
-    
-}
-
-.pfs{
-    position: absolute;
-    left: 62%;   
-    margin-top: 20px;  /* top: 3962px */
-    border-radius: 0px;
-}
-
-.form{
-    position: absolute;
-    left: 7%;
-    margin-top: 300px;  /*top: 4217px;*/
-    border-radius: 0px;   
-}
-
-.quiz{
-    position: absolute;
-    left: 62%;  
-    margin-top: 300px;     /* top: 4217px; */
-    border-radius: 0px;
-}
-
-
-
 
 
 

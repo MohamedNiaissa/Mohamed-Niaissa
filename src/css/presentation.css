@@ -1,5 +1,4 @@
 .moi {
-    position: relative;
     height: 552px;
     width: 500px;
     margin-right: 100px;
@@ -13,16 +12,16 @@
 
 .presentation{
     display: flex;
+    top: 598px;
+    position: absolute;
 }
 
 
 
 .presentation p{
-    position: relative;
 
     height: 285px;
     width: 591px;
-    top: 638px;
 
     font-size: 30px;
     font-style: normal;
@@ -34,7 +33,6 @@
 }
 
 .presentation ul{
-    position: relative;
     height: 119px;
 
 
@@ -52,7 +50,6 @@
 }
 
 .nom{
-    position: relative;
     height: 65px;
     width: 326px;
 
@@ -69,7 +66,6 @@
 }
 
 .age{
-    position: relative;
     height: 35px;
     width: 157px;
   
@@ -85,12 +81,9 @@
 
 }
 
-a{
-    background-color: red;
-}
+
 
 .ville{
-    position: relative;
     height: 35px;
     width: 313px;
     
@@ -106,7 +99,6 @@ a{
 }
 
 .download{
-    position: relative;
     height: 99px;
     width: 99px;
     top: 650px;
