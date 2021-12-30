@@ -16,8 +16,8 @@ class Pageweb extends React.Component{
 
                 <Header />
                 <Presentation />
-                {/* <Formation />
-                <Competances />
+                <Formation />
+                {/*<Competances />
                 <Realisation />
                 <Slideshow />
                 <Footer /> */}
