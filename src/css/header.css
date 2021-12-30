@@ -1,6 +1,7 @@
 html{
     scroll-behavior:smooth;   
     box-sizing:border-box
+    
 }
 
 body{
@@ -31,8 +32,7 @@ h1{
 header{
     background: url('/public/fondheader1.jpeg');
     height: 418px;
-    /* width: 1458px; */
-    /* left: -24px; */
+    width: 100%;
   
 }
 
@@ -65,5 +65,9 @@ nav ul li{
 @media (max-width: 1000px){
     ul{
         flex-wrap: wrap;
+    }
+
+    h1{
+        display: none;
     }
 }
