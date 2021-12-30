@@ -20,7 +20,7 @@ class Header extends React.Component{
                     </nav>
                     <h1>
                         Bonjour je m'appelle Mohamed Niaissa et je suis  <br />
-                        <span className="role"> un apprenti analyste et développeur d'applications</span>
+                        <span className="role"> un apprenti analyste développeur d'applications</span>
                     </h1>
                 </div>
 

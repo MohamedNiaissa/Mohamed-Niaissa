@@ -15,7 +15,7 @@ body{
 
 .banniere{
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
 }
 
 h1{
@@ -47,8 +47,9 @@ ul{
 }
 
 nav ul{
-    position: absolute;
+    flex-wrap: wrap;
     height: 50px;
+    width:95%;
     top: 26px;
     margin-right: 10px;
 }
