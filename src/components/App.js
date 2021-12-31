@@ -6,7 +6,7 @@ import Competances from "./Competances";
 import Realisation from "./Realisation";
 import Slideshow from './Slide';
 import Footer from "./Footer";
-
+import constimgs from "./listeimgs";
 
 class Pageweb extends React.Component{
     render(){
@@ -19,8 +19,9 @@ class Pageweb extends React.Component{
                 <Formation />
                 <Competances />
                 <Realisation />
-                {/*<Slideshow />
-                <Footer /> */}
+                <Slideshow />
+                <constimgs />
+                {/*<Footer /> */}
 
             </>
         )
