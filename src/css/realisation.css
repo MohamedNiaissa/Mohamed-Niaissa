@@ -1,10 +1,11 @@
 .realisation{
     position: absolute;
-    top: 4000px;
+    top: 4490px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
+    width: 100%;
 }
 
 
@@ -29,11 +30,10 @@
     flex-wrap: wrap;
     justify-content: center;
     padding-top: 20px;
-    margin-left: 21px;
     background: #615184;
     mix-blend-mode: lighten;
     height: 623.0000610351562px;
-    width: 1388px;
+    width: 100%;
     /* top: 3699px; */
     border-radius: 147px;
     
@@ -54,7 +54,11 @@
 
 
 
-
+@media (max-width : 560px){
+    .cadre{
+        border-radius: 0;
+    }
+}
 
 
 

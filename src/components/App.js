@@ -18,8 +18,8 @@ class Pageweb extends React.Component{
                 <Presentation />
                 <Formation />
                 <Competances />
-                {/*<Realisation />
-                <Slideshow />
+                <Realisation />
+                {/*<Slideshow />
                 <Footer /> */}
 
             </>
