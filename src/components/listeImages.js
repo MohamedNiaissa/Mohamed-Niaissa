@@ -1,4 +1,5 @@
 
+import '../css/listeimgs.css'
 
 let url = (indeximg) => {
 
@@ -35,16 +36,19 @@ const Constimgs = () =>{
   
     ];
   
-    <>
-    <p>blablaaaaaaa</p>
-    <div className="slide-container-listeimgs slide-container">
-  
-      {
-        images.map((each, index) => <a href={url(index)} target="_blank"><img key={index} style={{width: "100%"}} src={each} /> </a> )
-       
-      }
-  </div>
-  </>
+    return(
+
+        <>
+        <div className="slide-container-listeimgs">
+      
+          {
+            images.map((each, index) => <a href={url(index)} target="_blank"><img key={index} style={{width: "100%"}} src={each} /> </a> )
+           
+          }
+      </div>
+      </>
+    )
+
   }
 
   export default Constimgs;

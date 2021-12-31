@@ -54,11 +54,14 @@
 
 
 
-@media (max-width : 560px){
+@media (max-width : 600px){
     .cadre{
         border-radius: 0;
+        height: 1300px;
     }
+
 }
+
 
 
 

@@ -50,4 +50,6 @@ const Slideshow = () => {
     )
 }
 
-export default Slideshow;
+
+
+export  default Slideshow;
