@@ -99,11 +99,14 @@
 @media (max-width:1272px){
     .download{
         position: relative;
-        top: 23px;
-        left: 85%;
+        top: 73px;
+        left: 65%;
         width: 99px;
     }
 }
+
+
+
 
 @media (min-width : 800px){
 
