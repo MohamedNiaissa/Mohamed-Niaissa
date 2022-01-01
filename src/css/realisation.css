@@ -64,6 +64,13 @@
 
 }
 
+@media (max-width : 455px){
+    .cadre{
+        border-radius: 0;
+        height: 1400px;
+    }
+
+}
 
 
 

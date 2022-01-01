@@ -8,8 +8,16 @@ class Header extends React.Component{
             <header>
 
                 <div className="banniere">
+
+                <input type="checkbox" />
+
+                <span id="firstline"></span>
+                <span id="secondline"></span>
+                <span id="thirdline"></span>
+
+
                     <nav>
-                        <ul>
+                        <ul id = "menu">
                             <li> <a href ="#titleformation">FORMATION</a></li>
                             <li> <a href = "#titleskills">COMPETANCES</a></li>
                             <li> <a href = "#titlerealisation">REALISATIONS</a></li>
