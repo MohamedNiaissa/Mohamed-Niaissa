@@ -22,7 +22,7 @@ class Pageweb extends React.Component{
                 <Realisation />
                 <Constimgs />
                 <Slideshow />
-                {/* <Footer />  */}
+                <Footer /> 
 
             </>
         )

@@ -1,11 +1,12 @@
 footer{
     position: absolute;
-    top: 5000px;
+    top: 5600px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center; 
-    width: 1440px;
+    width: 100%;
+    height: 500px;
 
     background-color: #363155;
 
@@ -18,7 +19,7 @@ footer{
     text-align: center;
     margin-bottom: 0;
     height: 89px;
-    width: 416px;
+    width: 100%;
     top: 2900px;
     font-size: 45px;
     font-style: normal;
@@ -41,7 +42,7 @@ footer{
 #recherche{
 
     height: 70px;
-    width: 1082px;
+    width: 100%;
     top: 2665px;
 
     text-align:center;
@@ -64,7 +65,7 @@ footer{
 
 .myemail{
     height: 60px;
-    width: 700px;
+    width: 80%;
 
     margin-right: 0px;
     padding-right: 0px;
@@ -123,3 +124,55 @@ footer{
 }
 
 
+
+@media (max-width:933px){
+    .email{
+        position: relative;
+        top: 25px;
+    }
+
+    .encadremail{
+        position: relative;
+        top: 25px;
+        width: 100%;
+        text-align: left;
+    }
+   
+
+    .reseaux{
+        position: relative;
+        top: 25px;
+    }
+}
+
+@media( max-width:600px){
+
+    footer{
+        top: 6700px;
+        align-items: center;
+    }
+
+}
+
+
+@media (max-width: 575px){
+
+    .myemail{
+        font-size: 140%;   
+        text-align: left; 
+    }
+
+}
+
+@media (max-width:478px){
+    #titlecontact{
+
+        font-size: 25px;
+
+
+    }
+
+    #recherche{
+        font-size: 25px;
+    }
+}
