@@ -1,11 +1,11 @@
 import React from "react";
 import '../css/presentation.css'
 
-class Presentation extends React.Component{
+const Presentation = () => {
 
-    render(){
+
         return(
-            <div className="presentation">
+            <div  data-aos="fade" data-aos-duration="3000" className="presentation">
                 <div className="imgmoi">
                     <img src="moi1.jpeg" className="moi"alt="image de Mohamed" />
                 </div>
@@ -35,6 +35,6 @@ class Presentation extends React.Component{
         )
     }
 
-}
+
 
 export default Presentation
