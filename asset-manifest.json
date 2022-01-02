@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mohamed-Niaissa/static/css/main.65f62b3c.css",
-    "main.js": "/Mohamed-Niaissa/static/js/main.456ce19d.js",
+    "main.js": "/Mohamed-Niaissa/static/js/main.bedba186.js",
     "static/media/library.jpg": "/Mohamed-Niaissa/static/media/library.c99b1716bf4d42028efe.jpg",
     "static/media/fondheader1.jpeg": "/Mohamed-Niaissa/static/media/fondheader1.84ec89f4e57c25243fc7.jpeg",
     "index.html": "/Mohamed-Niaissa/index.html",
     "main.65f62b3c.css.map": "/Mohamed-Niaissa/static/css/main.65f62b3c.css.map",
-    "main.456ce19d.js.map": "/Mohamed-Niaissa/static/js/main.456ce19d.js.map"
+    "main.bedba186.js.map": "/Mohamed-Niaissa/static/js/main.bedba186.js.map"
   },
   "entrypoints": [
     "static/css/main.65f62b3c.css",
-    "static/js/main.456ce19d.js"
+    "static/js/main.bedba186.js"
   ]
 }
