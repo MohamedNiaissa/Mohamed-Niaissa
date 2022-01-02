@@ -10,7 +10,7 @@ class Competances extends React.Component{
 
                 <div className="container">
 
-                    <div className="front">
+                    <div data-aos="fade" className="front">
                         <h3>Front</h3>
             
                         <ul>
@@ -47,7 +47,7 @@ class Competances extends React.Component{
                         </ul>
                     </div>
             
-                    <div className="back">
+                    <div  data-aos="fade" className="back">
                         <h3>Back</h3>
             
                         <ul>
@@ -84,7 +84,7 @@ class Competances extends React.Component{
                         </ul>
                     </div>
             
-                    <div className="autre">
+                    <div  data-aos="fade" className="autre">
                         <h3>Autre</h3>
             
                         <ul>
