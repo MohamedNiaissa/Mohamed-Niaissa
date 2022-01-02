@@ -85,7 +85,6 @@ nav ul li{
     }
 
     #menuburger{
-        display:none;
         transition: transform .4s cubic-bezier(.25, .1, .25, 1);
     }
 
@@ -93,7 +92,7 @@ nav ul li{
         display: block;
         opacity: 1;
         transform: rotate(45deg) translate(2.5px, -1px);
-        background: #232323;
+        /* background: #232323; */
     }
 
     #menuburger:not(:target) {
@@ -111,23 +110,23 @@ nav ul li{
         transition: color 0.3s ease;
     }
 
-    .banniere input{
-        width: 400px;
-        height: 32px;
-        position: absolute;
-        top: -7px;
-        left: -5px;
-        
-        cursor: pointer;
-        
-        opacity: 0; 
-        z-index: 2; 
+    ul{
+        list-style-type:none;
+    }
+
+    #menub li{
+        margin-bottom: 20px;
+        background-color: #56497a;
+        border-radius: 20px;
+        width: 150px;
+    }
+
+    #menub li a{
+        color:aliceblue;
+        margin-left: 19px;
     }
 
 
-    .banniere {
-        transition: transform .4s cubic-bezier(.25, .1, .25, 1);    
-    }
 
 
     .banniere span{
@@ -151,34 +150,7 @@ nav ul li{
     }
 
 
-    .banniere span:first-child{
-
-        transform-origin: 0% 0%;
-    }
-
-    .banniere span:nth-last-child(2){
-
-        transform-origin: 0% 100%;
-    }
-
-    .banniere input:checked ~ span
-    {
-    opacity: 1;
-    transform: rotate(45deg) translate(2.5px, -1px);
-    background: #232323;
-    }
-
-    .banniere input:checked ~ #secondline
-    {
-    opacity: 0;
-    transform: rotate(0deg) scale(0.2, 0.2);
-    }
-
     
-    .banniere input:checked ~ #thirdline
-    {
-      transform: rotate(-45deg) translate(0, -1px);
-    }
 
 
     #menu
@@ -201,16 +173,6 @@ nav ul li{
 
         
         }
-    #menu li{
-        padding: 10px 0;
-        font-size: 22px;
-    }
-
-    #menuToggle input:checked ~ ul{               
-        transform: none;
-    }
-
-    
   
 
 }
