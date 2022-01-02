@@ -1,9 +1,8 @@
 import React from "react";
 import '../css/competances.css'
 
-class Competances extends React.Component{
+const Competances = () => {
 
-    render(){
         return(
             <div className="competances">
                 <h2 className="classtitleskills" id="titleskills">Compétences</h2>
@@ -116,7 +115,7 @@ class Competances extends React.Component{
     }
 
 
-}
+
 
 
 export default Competances
