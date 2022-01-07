@@ -142,7 +142,7 @@
     }
 
     .moi{
-        width:50%;
+        width:93%;
         height: 300px;
         margin: 0;
     }
@@ -172,6 +172,12 @@
      }
  } 
 
+
+ @media (min-width: 320px){
+     .cadre{
+        width: 100%;
+     }
+ }
 
 
 

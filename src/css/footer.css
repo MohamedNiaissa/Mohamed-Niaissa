@@ -148,7 +148,7 @@ footer{
 @media( max-width:600px){
 
     footer{
-        top: 6700px;
+        top: 6950px;
         align-items: center;
     }
 
@@ -179,5 +179,11 @@ footer{
     #recherche{
         font-size: 20px;
         width: 400px;
+    }
+
+    @media (min-width:320px){
+        footer{
+            width: 100%;
+        }
     }
 }

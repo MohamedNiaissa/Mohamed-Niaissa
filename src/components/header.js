@@ -7,7 +7,7 @@ class Header extends React.Component{
         return(
 <>
             <header>
-
+                <div className="header">
 
                 <div className="banniere" id="menuToggle">
 
@@ -18,7 +18,7 @@ class Header extends React.Component{
                         <span id="secondline"></span>
                         <span id="thirdline"></span>
                     </a>
-                    
+
                     <nav id="menuburger">
                             <ul id = "menub">
                                 <li> <a href ="#titleformation">FORMATION</a></li>
@@ -43,6 +43,10 @@ class Header extends React.Component{
                             Bonjour je m'appelle Mohamed Niaissa et je suis  <br />
                             <span className="role"> un apprenti analyste développeur d'applications</span>
                         </h1>
+                    </div>
+
+
+
                 </div>
 
 

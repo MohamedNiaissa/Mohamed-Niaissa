@@ -269,3 +269,9 @@
     }
 
 }
+
+@media (min-width: 320px){
+    .formation{
+       width: 132%;
+    }
+}
