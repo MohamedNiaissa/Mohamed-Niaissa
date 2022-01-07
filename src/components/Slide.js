@@ -22,6 +22,8 @@ let url = (indeximg) => {
     return 'https://mohamedniaissa.github.io/pfs/'
   }else if(indeximg == 6){
     return 'https://mohamedniaissa.github.io/Formulaire/'
+  }else if(indeximg == 7){
+    return 'https://mohamedniaissa.github.io/ProjetJsAvancee/'
   }
 
 }
@@ -34,8 +36,8 @@ const Slideshow = () => {
         'JavaFx.png',
         'CDL.png',
         'pfs.png',
-        'Formulaire.png'
-
+        'Formulaire.png',
+        'SpaceInvaders.png'
       ];
 
     return (
@@ -43,7 +45,6 @@ const Slideshow = () => {
         <Zoom scale={0.4}>
           {
             images.map((each, index) => <a href={url(index)} target="_blank"><img key={index} style={{width: "100%"}} src={each} /> </a> )
-           
           }
         </Zoom>
       </div>

@@ -17,7 +17,9 @@ let url = (indeximg) => {
         return 'https://mohamedniaissa.github.io/pfs/'
     }else if(indeximg == 6){
         return 'https://mohamedniaissa.github.io/Formulaire/'
-    }
+    }else if(indeximg == 7){
+        return 'https://mohamedniaissa.github.io/ProjetJsAvancee/'
+      }
 
 }
       
@@ -32,7 +34,8 @@ const Constimgs = () =>{
       'JavaFx.png',
       'CDL.png',
       'pfs.png',
-      'Formulaire.png'
+      'Formulaire.png',
+      'SpaceInvaders.png'
   
     ];
   
