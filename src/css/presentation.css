@@ -4,8 +4,6 @@
     margin-right: 100px;
     margin-left: 100px;
     border-radius: 78px;
-    
-    
 }
 
 .presentation{
@@ -173,11 +171,6 @@
  } 
 
 
- @media (min-width: 320px){
-     .cadre{
-        width: 132%;
-     }
- }
 
 
 

@@ -46,7 +46,7 @@ footer{
     top: 2665px;
 
     text-align:center;
-    font-size: 40px;
+    font-size: 136%;
     font-style: normal;
     font-weight: 400;
     line-height: 47px;
@@ -65,17 +65,15 @@ footer{
 
 .myemail{
     height: 60px;
-    width: 80%;
-
+    text-align: center;
     margin-right: 0px;
     padding-right: 0px;
     
-    font-size: 40px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 400;
     line-height: 47px;
     letter-spacing: 0em;
-    text-align: center;
     margin-top: 7px;
 
     
@@ -159,7 +157,6 @@ footer{
 
     .myemail{
         font-size: 140%;   
-        text-align: left; 
     }
 
 }
@@ -177,13 +174,10 @@ footer{
 @media (max-width:570px){
 
     #recherche{
-        font-size: 20px;
-        width: 400px;
+        top: 2645px;
+        font-size: 15px;
+        width: 70%;
     }
 
-    @media (min-width:320px){
-        footer{
-            width: 132%;
-        }
-    }
+   
 }

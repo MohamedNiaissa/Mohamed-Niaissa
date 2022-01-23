@@ -70,12 +70,6 @@
         height: 1400px;
     }
 
-@media (min-width : 320px){
-    .cadre{
-        width: 132%;
-    }
-}    
-
 }
 
 
