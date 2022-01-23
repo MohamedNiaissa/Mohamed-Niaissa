@@ -102,7 +102,7 @@ const Competances = () => {
                                 <div className="noteAnglais">
                                     <div className="styleprogAng">
                                         <div className="progressionAng">
-                                            <span className="pourcentAng">85%</span>
+                                            <span className="pourcentAng">40%</span>
                                         </div>
                                     </div>
                                 </div>

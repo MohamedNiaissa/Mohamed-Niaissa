@@ -86,7 +86,7 @@
 .pourcentHtml{
     position: relative;
     font-style: italic;
-    left: 100px;
+    left: 159px;
     font-size: 30px;
 
 }
@@ -130,7 +130,7 @@
 
 .pourcentCss{
     position: relative;
-    left:115px;
+    left:136px;
     font-style: italic;
     font-size: 30px;
  
@@ -251,7 +251,7 @@
 
 .pourcentPy{
     position: relative;
-    left:70px;
+    left:106px;
     font-style: italic;
     font-size: 30px;
     
@@ -421,7 +421,7 @@
 }
 
 .figma span{
-    margin-right: 193px;
+    margin-right: 204px;
 }
 
 
@@ -452,7 +452,7 @@
 }
 
 .progressionAng{
-    width  : 212.5px;
+    width  : 100px;
     height : 50px;
     background-color: rgba(166, 39, 216, 0.644);
     border-radius: 15px;
@@ -461,7 +461,7 @@
 
 .pourcentAng{
     position: relative;
-    left:70px;
+    left:37px;
     font-style: italic;
     font-size: 30px;
     

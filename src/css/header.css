@@ -1,9 +1,9 @@
  html{
     scroll-behavior:smooth;   
     box-sizing:border-box;
-    padding:0;    max-width: 100%;
+    max-width: 100%;
 
-    margin: 0;   
+    
 }
 #root{
     margin: 0;
@@ -41,7 +41,6 @@ h1{
     background: url('/public/fondheader1.jpeg');
     height: 418px;
     width: 100%;
-  
 }
 
 a{
