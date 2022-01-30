@@ -32,7 +32,7 @@ class Header extends React.Component{
                         <nav>
                             <ul id = "menu">
                                 <li> <a href ="#titleformation">FORMATION</a></li>
-                                <li> <a href = "#titleskills">COMPETANCES</a></li>
+                                <li> <a href = "#titleskills">COMPETENCES</a></li>
                                 <li> <a href = "#titlerealisation">REALISATIONS</a></li>
                                 <li><a href = "#titlecontact">CONTACT</a></li>
                             </ul>

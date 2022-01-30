@@ -37,7 +37,7 @@
     position: absolute;
     height: 20%;
     width: 38%;
-    left: 61%;
+    left: 65%;
     top: 232px;
     font-size: 25px;
     font-style: normal;
@@ -63,7 +63,7 @@
     position: absolute;
     height: 112px;
     width: 43%;
-    left: 54%;
+    left: 58%;
     top: 236px;
     border-radius: 29px;
     background-color: rgb(12, 40, 63);
@@ -224,6 +224,7 @@
 
     .rect1,.rect2,.rect3,.rect4{
         border-radius: 10px;
+        left: 3%;
     }
 
     .premiere p, .terminal p,.prepa p,  .coding p{
@@ -232,7 +233,6 @@
 
     .rect1{
         width: 95%;
-        left: 0px;
     }
 
     .terminal p{
@@ -242,7 +242,6 @@
 
     .rect2{
         width: 95%;
-        left: 0px;
         }
 
     .prepa p {
@@ -253,7 +252,6 @@
 
     .rect3{
         width: 95%;
-        left: 0px;  
       }
 
     .coding p{
@@ -263,7 +261,6 @@
 
     .rect4{
         width: 95%;
-        left: 0px;
     }
 }
 
@@ -275,6 +272,16 @@
 
 }
 
+
+@media (max-width : 348px){
+    .rect4{
+        height: 177px;
+    }
+
+    .rect2{
+        height: 227px;
+    }
+}
 
 
 
