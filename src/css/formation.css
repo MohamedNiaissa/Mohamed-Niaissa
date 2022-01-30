@@ -37,7 +37,7 @@
     position: absolute;
     height: 20%;
     width: 38%;
-    left: 65%;
+    left: 61%;
     top: 232px;
     font-size: 25px;
     font-style: normal;
@@ -63,7 +63,7 @@
     position: absolute;
     height: 112px;
     width: 43%;
-    left: 58%;
+    left: 54%;
     top: 236px;
     border-radius: 29px;
     background-color: rgb(12, 40, 63);
@@ -224,7 +224,7 @@
 
     .rect1,.rect2,.rect3,.rect4{
         border-radius: 10px;
-        left: 3%;
+        left: 0%;
     }
 
     .premiere p, .terminal p,.prepa p,  .coding p{
@@ -272,7 +272,6 @@
 
 }
 
-
 @media (max-width : 348px){
     .rect4{
         height: 177px;
@@ -282,6 +281,3 @@
         height: 227px;
     }
 }
-
-
-
