@@ -22,7 +22,7 @@ class Header extends React.Component{
                     <nav id="menuburger">
                             <ul id = "menub">
                                 <li> <a href ="#titleformation">FORMATION</a></li>
-                                <li> <a href = "#titleskills">COMPETANCES</a></li>
+                                <li> <a href = "#titleskills">COMPETENCES</a></li>
                                 <li> <a href = "#titlerealisation">REALISATIONS</a></li>
                                 <li><a href = "#titlecontact">CONTACT</a></li>
                             </ul>
