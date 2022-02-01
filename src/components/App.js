@@ -29,7 +29,4 @@ class Pageweb extends React.Component{
 
 }
 
-
-
-
 export default Pageweb

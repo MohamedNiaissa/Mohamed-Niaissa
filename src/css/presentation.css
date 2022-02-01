@@ -36,12 +36,14 @@
 
 .listeResume{
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    margin-bottom: 120px;
 }
 
 
 .listeResume li{
-    margin: 6px;
+    margin: 20px;
     
 
 }
@@ -90,27 +92,18 @@
 }
 
 .download{
-    
+    position: relative;
     height: 99px;
     width: 99px;
-    top: 650px;
+    top: -140px;
+    left: 70%;    
 }
 
-@media (max-width:1272px){
-    .download{
-        position: relative;
-        top: 73px;
-        left: 65%;
-        width: 99px;
-    }
-}
 
 
 
 
 @media (min-width : 800px){
-
-
 
     .presentation p{
         display: inline;
@@ -120,7 +113,7 @@
 
 
 
-@media (max-width: 995px) { 
+@media (max-width: 1301px) { 
 
     .presentation{
         flex-direction: column;
