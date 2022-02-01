@@ -5,7 +5,6 @@
     position: absolute;
     width: 100%;
     top: 2700px;
-
     display: flex;
     flex-direction: column;
 }
@@ -64,7 +63,7 @@
         
 }
 .HTML span{
-    margin-right: 55px;
+    margin-right: 70px;
 }
 
 .styleproghtml{
@@ -181,7 +180,7 @@
 }
 
 .React span{
-    margin-right: 27px;
+    margin-right: 20px;
 }
 
 
@@ -258,7 +257,7 @@
 }
 
 .python span{
-    margin-right: 40px;
+    margin-right: 44px;
 }
 
 
@@ -327,12 +326,15 @@
     
 }
 
+.JS span{
+    margin-right: 80px;
+}
+
 .styleprogJs{
     width  : 250px;
     height : 50px;
     background-color: #34487c;
     border-radius: 15px;
-    margin-left: 90px;
 }
 
 .progressionJs{
@@ -555,6 +557,7 @@
 
     .JS span{
         text-align: center;
+
     }
 
     .autre h3{
@@ -592,7 +595,7 @@
     }
 }
 
-@media (max-width : 1017px){
+@media (max-width : 1301px){
 
     .competances{
         top: 3000px;
