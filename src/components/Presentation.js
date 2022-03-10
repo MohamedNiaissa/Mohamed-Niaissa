@@ -25,8 +25,7 @@ const Presentation = () => {
                     </ul>
                 
                     <a href="MohamedNiaissaCV.zip"><img src="download.png" className = "download"alt="Telecharger mon CV" /></a>
-                      
-                        
+                
                 </div>
             
             </div>

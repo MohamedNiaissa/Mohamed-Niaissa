@@ -80,6 +80,16 @@ const Competances = () => {
                                     </div>
                                 </div>
                             </li>
+                            <li className="PHP">
+                                <span>PHP</span>
+                                <div className="notePHP">
+                                    <div className="styleprogPHP">
+                                        <div className="progressionPHP">
+                                            <span className="pourcentPHP">55%</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </div>
             
