@@ -577,16 +577,30 @@
 
     }
 
+    .PHP{
+        flex-direction: column;
+        position: relative;
+        top: 190px;
+    }
+    .styleprogPHP{
+        margin: 0;
+    }
+
+    .PHP span{
+        text-align: center;
+        margin-right: 30px;
+    }
+
     .autre h3{
         position: relative;
-        top: 150px;
+        top: 190px;
 
     }
 
     .anglais{
         flex-direction: column;
         position: relative;
-        top: 0;
+        top: 40px;
         
     }
     .styleprogAng{
@@ -600,7 +614,7 @@
     .figma{
         flex-direction: column;
         position: relative;
-        top: 170px;
+        top: 210px;
     }
     .styleprogFig{
         margin: 0;
