@@ -24,6 +24,8 @@ let url = (indeximg) => {
     return 'https://mohamedniaissa.github.io/Formulaire/'
   }else if(indeximg == 7){
     return 'https://mohamedniaissa.github.io/ProjetJsAvancee/'
+  }else if(indeximg == 8){
+    return 'https://github.com/MohamedNiaissa/ProjetLabDay'
   }
 
 }
@@ -37,7 +39,8 @@ const Slideshow = () => {
         'CDL.png',
         'pfs.png',
         'Formulaire.png',
-        'SpaceInvaders.png'
+        'SpaceInvaders.png',
+        'NextStep.png'
       ];
 
     return (
