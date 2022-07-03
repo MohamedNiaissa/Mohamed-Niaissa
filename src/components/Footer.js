@@ -11,7 +11,7 @@ const Footer = () => {
             
                 <h3 id="titlecontact"> Contactez-moi</h3>
                 <p id="recherche">
-                Actuellement à la recherche d’un stage et d'une alternance <br /> pour l'année 2022
+                Actuellement à la recherche d'une alternance <br /> pour l'année 2022
                 </p>
                 <div className="mail">
                 <img src="email.png" className="email" alt="logo email" />
