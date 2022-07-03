@@ -20,7 +20,7 @@ const Presentation = () => {
 
                     <ul className="listeResume">
                         <li className="nom">Nom: Mohamed Niaissa</li>
-                        <li className="age">Age: 20 ans</li>
+                        <li className="age">Age: 21 ans</li>
                         <li className="ville">Ville: Clichy-La-Garenne</li>
                     </ul>
                 
